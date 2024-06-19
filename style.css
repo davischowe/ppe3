@@ -1,0 +1,92 @@
+h1{
+    display: flex;
+    font-weight: 600;
+    font-size: 32px;
+    color:rgb(78, 38, 170);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h6{
+    display: flex;
+    font-weight: 400px;
+    font-size: 32px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(160, 83, 231, 0.842);
+    font-style: italic
+}
+body{
+    background-color: rgba(187, 168, 60, 0.582);
+    margin-top: 0,5%;
+}
+p{
+    margin-left: 5px;
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.img,.git{
+    display: inline-block;
+}
+#navt{
+text-align: center;
+margin-top: 350px;
+}
+
+button{
+    font-family: "Comfortaa", sans-serif;
+font-weight: 700;
+height: 4rem;
+width: 12rem;
+margin-bottom: 0.9rem;
+text-align: center;
+color: blueviolet;
+border-radius: 1rem;
+border-color: blueviolet;
+
+}
+footer{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#titulo{
+    font-size: 60px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 230px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blueviolet;
+    font-style: italic;
+    padding: 0px
+}
+hr{
+    margin: 2px 0;
+    color: black;
+    shape-outside: margin-box;
+}
+.img5 {
+    width: 369px;
+    height: 246px;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 0px;
+    border-radius: 5px;
+  }
+.img7{
+    border: 3px solid black;
+    width: 500px;
+    height: 334px;
+    border-radius: 7px;
+}
+.img8{
+    border: 3px solid black;
+    width: 544px;
+    height: 599px;
+    border-radius: 7px;
+
+}
+.tt{
+    border: 3px solid black;
+    width: 348px;
+    height: 348px;
+    border-radius: 7px;
+
+}
+  
